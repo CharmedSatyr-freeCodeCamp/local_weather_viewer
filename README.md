@@ -1,4 +1,4 @@
-# **Local_Weather_Viewer**
+# **Local Weather Viewer**
 ### **"Show the Local Weather"** is a requirement for freeCodeCamp Front End Certification: https://www.freecodecamp.com/challenges/show-the-local-weather
 #### **Date Completed**: Mar 06, 2016
 
